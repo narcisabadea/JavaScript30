@@ -16,3 +16,6 @@
 
 * 05 - Flex Panel Gallery
 ![Flex_Gallery](05%20-%20Flex%20Panel%20Gallery/ss.png)
+
+* 06 - Type Ahead
+![Autocomplete](06%20-%20Type%20Ahead/ss.png)
