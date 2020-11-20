@@ -13,3 +13,6 @@
 * 03 - CSS Variables
 
 ![CSS_Variables](03%20-%20CSS%20Variables/ss.png)
+
+* 05 - Flex Panel Gallery
+![Flex_Gallery](05%20-%20Flex%20Panel%20Gallery/ss.png)
