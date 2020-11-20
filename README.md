@@ -9,3 +9,7 @@
 * 02 - JS and CSS Clock
 
 ![JavaScript_CSS_Clock](02%20-%20JS%20and%20CSS%20Clock/ss.png)
+
+* 03 - CSS Variables
+
+![CSS_Variables](03%20-%20CSS%20Variables/ss.png)
