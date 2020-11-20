@@ -8,4 +8,4 @@
 
 * 02 - JS and CSS Clock
 
-![JavaScript_Drum_Kit](02%20-%JS%20and%20CSS%20Clock/ss.png)
+![JavaScript_CSS_Clock](02%20-%20JS%20and%20CSS%20Clock/ss.png)
