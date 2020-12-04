@@ -19,3 +19,6 @@
 
 * 06 - Type Ahead
 ![Autocomplete](06%20-%20Type%20Ahead/ss.png)
+
+* 10 - Hold Shift and Check Checkboxes
+![Shift](10%20-%20Hold%20Shift%20and%20Check%20Checkboxes/ss.png)
