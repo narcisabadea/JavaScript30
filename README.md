@@ -38,6 +38,9 @@
 * 23 - Speech Synthesis 
 ![Speech](23%20-%20Speech%20Synthesis/ss.png)
 
+* 26 - Stripe Follow Along Nav
+![Stripe](26%20-%20Stripe%20Follow%20Along%20Nav/ss.png)
+
 * 28 - Video Speed Controller
 ![VideoSpeed](28%20-%20Video%20Speed%20Controller/ss.png)
 
