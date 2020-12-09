@@ -32,6 +32,9 @@
 * 17 - Sort Without Articles
 ![Sort](17%20-%20Sort%20Without%20Articles/ss.png)
 
+* 22 - Follow Along Link Highlighter 
+![Highlighter](22%20-%20Follow%20Along%20Link%20Highlighter/ss.png)
+
 * 23 - Speech Synthesis 
 ![Speech](23%20-%20Speech%20Synthesis/ss.png)
 
