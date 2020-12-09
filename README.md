@@ -25,3 +25,6 @@
 
 * 11 - Custom Video Player
 ![Video_player](11%20-%20Custom%20Video%20Player/ss.png)
+
+* 15 - LocalStorage
+![LocalStorage](15%20-%20LocalStorage/ss.png)
