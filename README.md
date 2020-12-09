@@ -22,3 +22,6 @@
 
 * 10 - Hold Shift and Check Checkboxes
 ![Shift](10%20-%20Hold%20Shift%20and%20Check%20Checkboxes/ss.png)
+
+* 11 - Custom Video Player
+![Video_player](11%20-%20Custom%20Video%20Player/ss.png)
