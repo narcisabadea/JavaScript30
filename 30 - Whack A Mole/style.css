@@ -67,3 +67,14 @@ h1 {
 .hole.up .mole {
   top: 0;
 }
+
+.start-button {
+  display: flex;
+  flex-flow: row;
+  padding: 10px 20px;
+  margin-top: 30px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 5px;
+  background-color: #ffd233;
+}
