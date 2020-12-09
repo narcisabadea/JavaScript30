@@ -32,6 +32,9 @@
 * 17 - Sort Without Articles
 ![Sort](17%20-%20Sort%20Without%20Articles/ss.png)
 
+* 23 - Speech Synthesis 
+![Speech](23%20-%20Speech%20Synthesis/ss.png)
+
 * 28 - Video Speed Controller
 ![VideoSpeed](28%20-%20Video%20Speed%20Controller/ss.png)
 
