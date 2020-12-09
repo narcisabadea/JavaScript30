@@ -28,3 +28,6 @@
 
 * 15 - LocalStorage
 ![LocalStorage](15%20-%20LocalStorage/ss.png)
+
+* 17 - Sort Without Articles
+![Sort](17%20-%20Sort%20Without%20Articles/ss.png)
