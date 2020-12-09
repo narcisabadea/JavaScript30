@@ -46,3 +46,6 @@
 
 * 29 - Countdown Timer
 ![Countdown](29%20-%20Countdown%20Timer/ss.png)
+
+* 30 - Whack A Mole
+![Whack](30%20-%20Whack%20A%20Mole/ss.png)
